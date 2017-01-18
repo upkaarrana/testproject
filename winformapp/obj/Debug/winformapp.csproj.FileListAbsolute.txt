@@ -7,3 +7,12 @@ D:\workspace\Tests\winformapp\winformapp\obj\Debug\winformapp.Properties.Resourc
 D:\workspace\Tests\winformapp\winformapp\obj\Debug\winformapp.csproj.GenerateResource.Cache
 D:\workspace\Tests\winformapp\winformapp\obj\Debug\winformapp.exe
 D:\workspace\Tests\winformapp\winformapp\obj\Debug\winformapp.pdb
+D:\winformapp\winformapp\bin\Debug\winformapp.exe.config
+D:\winformapp\winformapp\bin\Debug\winformapp.exe
+D:\winformapp\winformapp\bin\Debug\winformapp.pdb
+D:\winformapp\winformapp\obj\Debug\winformapp.csprojResolveAssemblyReference.cache
+D:\winformapp\winformapp\obj\Debug\winformapp.Form1.resources
+D:\winformapp\winformapp\obj\Debug\winformapp.Properties.Resources.resources
+D:\winformapp\winformapp\obj\Debug\winformapp.csproj.GenerateResource.Cache
+D:\winformapp\winformapp\obj\Debug\winformapp.exe
+D:\winformapp\winformapp\obj\Debug\winformapp.pdb
