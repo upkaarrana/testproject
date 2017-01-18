@@ -1,0 +1,9 @@
+D:\workspace\Tests\winformapp\winformapp\bin\Debug\winformapp.exe.config
+D:\workspace\Tests\winformapp\winformapp\bin\Debug\winformapp.exe
+D:\workspace\Tests\winformapp\winformapp\bin\Debug\winformapp.pdb
+D:\workspace\Tests\winformapp\winformapp\obj\Debug\winformapp.csprojResolveAssemblyReference.cache
+D:\workspace\Tests\winformapp\winformapp\obj\Debug\winformapp.Form1.resources
+D:\workspace\Tests\winformapp\winformapp\obj\Debug\winformapp.Properties.Resources.resources
+D:\workspace\Tests\winformapp\winformapp\obj\Debug\winformapp.csproj.GenerateResource.Cache
+D:\workspace\Tests\winformapp\winformapp\obj\Debug\winformapp.exe
+D:\workspace\Tests\winformapp\winformapp\obj\Debug\winformapp.pdb
